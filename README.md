@@ -1,4 +1,4 @@
-# Azure Secure VM Monitoring & Access Control (Free-Tier Lab)
+# Azure Secure VM Monitoring & Access Control
 
 This project demonstrates the deployment, security hardening, and monitoring of a Linux virtual machine in Microsoft Azure using free-tier compatible services. The focus is on identity-aware access, network security, operational monitoring, and cost control.
 
