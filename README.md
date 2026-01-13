@@ -31,6 +31,7 @@ All services were selected to remain within free-tier or minimal-cost limits.
 ### Secure Network Design
 ![VM Network Security](architecture/vm-network-security.png)
 
+
 ### Monitoring & Logging Flow
 ![Monitoring Flow](architecture/monitoring-flow.png)
 
